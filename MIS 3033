@@ -4,7 +4,10 @@
 <html>
  <body>
  
-<h1>Example heading <span class="badge bg-secondary">New</span></h1>
+<h1><span class="badge bg-secondary">QUICK FACTS</span></h1>
+<div>
+Seats Left:	6 out of 25
+</div>
 <h2>Example heading <span class="badge bg-secondary">New</span></h2>
 <h3>Example heading <span class="badge bg-secondary">New</span></h3>
 <h4>Example heading <span class="badge bg-secondary">New</span></h4>
