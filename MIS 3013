@@ -1,5 +1,13 @@
 <h1>MIS 3013-001 <span class="badge bg-secondary"> Introduction to Programming</span></h1>
 
+
+<div class="card">
+  <div class="card-body">
+    Prerequisite: MIS 2113 and Junior standing; student must be approved for degree candidacy by Price College. Introduce the basic principles of programming and design. Topics covered are language syntax, algorithm, development, logic structures, arrays and math function. (F, Sp)
+  </div>
+</div>
+
+
 </nav> <h1>Wanna check other available courses?</h1>
    <a class="btn btn-primary" href="MIS 3013" role="button">MIS 3013</a>
    <a class="btn btn-primary" href="MIS 3033" role="button">MIS 3033</a>
