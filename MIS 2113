@@ -14,3 +14,7 @@
     </div>
   </div>
 </div>
+
+
+<div class="text-bg-primary p-3">Primary with contrasting color</div>
+<div class="text-bg-secondary p-3">Secondary with contrasting color</div>
