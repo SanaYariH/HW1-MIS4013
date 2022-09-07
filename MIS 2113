@@ -1,7 +1,6 @@
 <h1>MIS 2113-002 <span class="badge bg-secondary"> Computer-Based Info Systems I</span></h1>
 
 
-<button type="button" class="btn btn-primary" id="liveToastBtn">CLASS DESCRIPTION</button>
 
 <div class="toast-container position-fixed bottom-0 end-0 p-3">
   <div id="liveToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
@@ -16,5 +15,4 @@
 </div>
 
 
-<div class="text-bg-primary p-3">Primary with contrasting color</div>
-<div class="text-bg-secondary p-3">Secondary with contrasting color</div>
+
