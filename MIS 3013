@@ -1,1 +1,12 @@
 
+
+</nav> <h1>Wanna check other available courses?</h1>
+   <a class="btn btn-primary" href="MIS 3013" role="button">MIS 3013</a>
+   <a class="btn btn-primary" href="MIS 3033" role="button">MIS 3033</a>
+   <a class="btn btn-primary" href="MIS 3353" role="button">MIS 3353</a>
+   <a class="btn btn-primary" href="MIS 4013" role="button">MIS 4013</a>
+   
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+ </body>
+</html>
+
