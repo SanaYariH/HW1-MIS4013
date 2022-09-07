@@ -18,3 +18,14 @@
 
 <label for="customRange1" class="form-label">Your Coding Experience</label>
 <input type="range" class="form-range" id="customRange1">
+
+<h1><span class="badge bg-secondary">Put down your information to reserve a seat in MIS 4013 class!</span></h1>
+
+<div class="row">
+  <div class="col">
+    <input type="text" class="form-control" placeholder="First name" aria-label="First name">
+  </div>
+  <div class="col">
+    <input type="text" class="form-control" placeholder="Last name" aria-label="Last name">
+  </div>
+</div>
