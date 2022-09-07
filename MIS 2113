@@ -1,7 +1,7 @@
 <h1>MIS 2113-002 <span class="badge bg-secondary"> Computer-Based Info Systems I</span></h1>
 
 
-<button type="button" class="btn btn-primary" id="liveToastBtn">Show live toast</button>
+<button type="button" class="btn btn-primary" id="liveToastBtn">CLASS DESCRIPTION</button>
 
 <div class="toast-container position-fixed bottom-0 end-0 p-3">
   <div id="liveToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
@@ -10,7 +10,7 @@
       <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
     </div>
     <div class="toast-body">
-      Hello, world! This is a toast message.
+      Prerequisite: undergraduate major in Business, prerequisite or concurrent enrolled in B AD 1001. The course educates students on how information technology facilitates organizations to achieve its goals and solve problems. Students will learn to use latest tools of information technology, conduct hands-on-exercises and solve problems. Hence, students will become familiar with advanced use of spreadsheet and database software, networking technologies, web and application programming languages, and business analytics methods. (F, Sp, Su)
     </div>
   </div>
 </div>
