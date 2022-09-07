@@ -9,11 +9,10 @@
 
 <div class="card" style="width: 18rem;">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="card-link">Card link</a>
-    <a href="#" class="card-link">Another link</a>
+    <h5 class="card-title">Prerequisite: MIS 2113 and Junior standing</h5>
+    <h6 class="card-subtitle mb-2 text-muted">Instructor: Jinglong Ju</h6>
+    <p class="card-text">student must be approved for degree candidacy by Price College. Introduce the basic principles of programming and design. Topics covered are language syntax, algorithm, development, logic structures, arrays and math function. (F, Sp)</p>
+    <a href="MIS 2113" class="card-link">MIS 2113</a>
   </div>
 </div>
 
