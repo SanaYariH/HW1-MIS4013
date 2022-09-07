@@ -13,3 +13,8 @@
     Non-MIS Student
   </label>
 </div>
+
+<h1><span class="badge bg-secondary">How much experience do you have in coding?</span></h1>
+
+<label for="customRange1" class="form-label">Your Coding Experience</label>
+<input type="range" class="form-range" id="customRange1">
