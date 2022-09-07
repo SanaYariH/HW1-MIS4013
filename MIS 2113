@@ -14,8 +14,8 @@
   </div>
 </div>
 
-</nav> <h1>Hello, world!</h1>
-   <a class="btn btn-primary" href="page2.html" role="button"> scroll to page 2</a>
+</nav> <h1>Go Back to Main Page</h1>
+   <a class="btn btn-primary" href="MIS 3013" role="button">MIS 3013</a>
    <a class="btn btn-primary" href="page3.html" role="button"> scroll to page 3</a>
    <a class="btn btn-primary" href="page4.html" role="button"> scroll to page 4</a>
    <a class="btn btn-primary" href="page5.html" role="button"> scroll to page 5</a>
